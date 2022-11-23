@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.pgsql": "sql",
+			"iostream": "cpp"
+		}
+	}
+}
